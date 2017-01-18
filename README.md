@@ -1,3 +1,3 @@
-www.VanuChat.com
+www.Vanushop.com
 
-This is a project plus a web collaboration project
+This is a project plus a ecommerce portal
